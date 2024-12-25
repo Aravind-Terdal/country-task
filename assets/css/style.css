@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flagImage{
+    width: 10rem;
+    border: 0.5px solid;
+    box-shadow: 1px 1px 10px 0px;
+}
+
+.btnSection,.mainHeading{
+    width: 100%;
+    background-color: #f1ddb1;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+.mainHeading h1{
+    color: #ffa500;
+}
+.mainHeading .secHeading{
+    color: black;
+}
+.priHeading{
+    font-size: 1rem;
+    color: #ffa500;
+}
+.secHeading{
+    font-size: 0.8rem;
+    color: #ffa500;
+}
+.sortBtn{
+    width: 20rem;
+    background-color: #ffa500;
+    color: white;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+    box-shadow: 2px 2px 20px 2px black;
+}
+.sortBtn:is(:hover,:focus){
+    color: #ffa500;
+    background-color: #f1ddb1;
+    border: 1px solid #ffa500;
+}
+.searchBox input{
+    background-color: #ffa500;
+    width: 65rem;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 20px 2px black;
+}
+.searchBox ::placeholder{
+    color: white;
+    padding: 0.5rem;
+}
+
+.card{
+    background-color: #f1ddb1;
+}
+.graphData a{
+    display: inline-block;
+    color: #ffa500;
+}
+.graphData i{
+    font-size: 2.5rem;
+}
+
+.para {
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
